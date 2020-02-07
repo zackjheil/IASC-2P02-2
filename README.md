@@ -6,4 +6,4 @@ This is where I tell you who I am and you pretend to understand.
 
 ## Blog Post
 
-First Sentence of Blog Post HERE
+First Sentence of Blog Post HERE [continue reading...](blog)
