@@ -7,4 +7,4 @@ I am currently a student at Brock University, studying Interactive Arts and Scie
 
 ## Blog Post
 
-First Sentence of Blog Post HERE [continue reading...](blog)
+First Sentence of Blog Post HERE [continue reading...](blog.md)
