@@ -1,11 +1,10 @@
 # IASC-2P02 | Joshua Ducharme-Baribeau
 ## About me
-This is where I tell you who I am and you pretend to understand.
+I am currently a student at Brock University, studying Interactive Arts and Science. I hope that my studies will allow me to work as a user experience designer who specializes in user interface design.
+
 
 ![](imagez/placeholderBobRoss.jpg)
 
 ## Blog Post
 
 First Sentence of Blog Post HERE [continue reading...](blog)
-
-This is a change that I made in a cloned repository.
