@@ -12,4 +12,4 @@ http and https sites, but if you're embedding this into a local web page (file p
 you should add an explicit protocol (https if you're using voyant-tools.org, otherwise
 it depends on this server.
 Feel free to change the height and width values or other styling below: -->
-<iframe style='width: 477px; height: 350px;' src='https://voyant-tools.org/tool/Trends/?query=humanities&query=novel&query=digital&query=time&query=novels&corpus=fab9e933b97d55c927b3219c4f3f4fc2'></iframe>
+<!-- <iframe style='width: 477px; height: 350px;' src='https://voyant-tools.org/tool/Trends/?query=humanities&query=novel&query=digital&query=time&query=novels&corpus=fab9e933b97d55c927b3219c4f3f4fc2'></iframe> -->
